@@ -1,4 +1,3 @@
-# -Atividade-2---Desenvolvimento-da-p-gina-index-do-site
 <!DOCTYPE html>
 <html lang="pt-br">
 
